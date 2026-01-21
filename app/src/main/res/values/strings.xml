@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BuddyTemplate</string>
+    <string name="title_login_activity">LoginActivity</string>
+</resources>
